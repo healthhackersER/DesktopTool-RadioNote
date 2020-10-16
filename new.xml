@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string-array name="key_string_array">
+    <item>abszess|Ein Abszess ist eine Ansammlung von Eiter in einer nicht vorgeformten Höhle. 
+Abszesse deuten auf einen starken entzündlichen Prozess hin. </item>
+    <item>abzesse|Ein Abszess ist eine Ansammlung von Eiter in einer nicht vorgeformten Höhle. 
+Abszesse deuten auf einen starken entzündlichen Prozess hin. </item>
+    <item>caecum|Caecum ist ein Synonym für den Blinddarm. Umgangssprachlich wird oft der Wurmfortsatz ( Appendix vermiformis) als Blinddarm bezeichnet.</item>
+    <item>emphysem|Als Emphysem bezeichnet man das unphysiologische erhöhte Vorkommen von Luft oder Gas im Gewebe.
+
+Emphyseme in der Lunge treten zum Beispiel im Rahmen der COPD auf.
+
+Emphyseme in anderen Körpergeweben können nach einer medizinischen Intervention auftreten. Ohne Eingriff können sie aber auch im Rahmen entzündlicher Prozesse auftreten. </item>
+    <item>emphyseme|Als Emphysem bezeichnet man das unphysiologische erhöhte Vorkommen von Luft oder Gas im Gewebe.
+
+Emphyseme in der Lunge treten zum Beispiel im Rahmen der COPD auf.
+
+Emphyseme in anderen Körpergeweben können nach einer medizinischen Intervention auftreten. Ohne Eingriff können sie aber auch im Rahmen entzündlicher Prozesse auftreten. </item>
+    <item>empyem|Ein Empyem bezeichnet eine Ansammlung von Eiter in einer vorgeformten Körperhöhle wie zum Beispiel dem Pleuraspalt. Empyeme deuten auf einen starken entzündlichen Prozess hin.</item>
+    <item>empyeme|Ein Empyem bezeichnet eine Ansammlung von Eiter in einer vorgeformten Körperhöhle wie zum Beispiel dem Pleuraspalt. Empyeme deuten auf einen starken entzündlichen Prozess hin.</item>
+    <item>erguss|Bezeichnen Ergüsse meist Pleuraergüsse. Dies ist eine Ansammlung von Flüssigkeit zwischen der Lunge und der Thoraxwand.
+
+Dies kann eine Vielzahl von Ursachen haben. Ergüsse können die Atmung Einschränken wenn sie zu groß werden. </item>
+    <item>ergüsse|Bezeichnen Ergüsse meist Pleuraergüsse. Dies ist eine Ansammlung von Flüssigkeit zwischen der Lunge und der Thoraxwand. 
+Dies kann eine Vielzahl von Ursachen haben. Ergüsse können die Atmung Einschränken wenn sie zu groß werden. </item>
+    <item>hämatogen|Hämatogen deutet im Allgemeinen auf einen Zusammenhang mit dem Blut hin. 
+  
+Im Zusammenhang mit dem Begriff Metastasierung bedeutet es, dass die Metastasen aufgrund des Streumusters wahrscheinlich über den Blutkreislauf gestreut wurden. </item>
+    <item>hämatom|Ein Hämatom ist eine Ansammlung von Blut, das aus den Blutgefäßen in das extravasale Körpergewebe oder einen präformierten Hohlraum ausgetreten ist.
+</item>
+    <item>infiltrate|Im Kontext einer Untersuchung der Lunge bezeichnen Infiltrate meistens eine entzündliche Veränderung, im Allgemeinen bezeichnet der Begriff das Eindringen einer Substanz in biologisches Gewebe</item>
+    <item>kolon|Das Kolon befindet sich als längster Teil des Dickdarmes zwischen dem Blinddarm und dem Enddarm.</item>
+    <item>partielle|der Begriff partiell wird oft im Rahmen einer partiellen Remission benutz bei der Beurteilung des Verlaufes einer Tumorerkrankung. 
+  
+In diesem Zusammenhang bedeutet es, dass das Tumorvolumen unter der derzeitigen Therapie um weniger als 25 % vermindert wurde. </item>
+    <item>pleuraerguss|Ein Pleuraerguss ist eine Ansammlung von Flüssigkeit zwischen der Lunge und der Thoraxwand. 
+Dies kann eine Vielzahl von Ursachen haben. Ergüsse können die Atmung Einschränken wenn sie zu groß werden. </item>
+    <item>pleuraergüsse|Ein Pleuraerguss ist eine Ansammlung von Flüssigkeit zwischen der Lunge und der Thoraxwand. 
+Dies kann eine Vielzahl von Ursachen haben. Ergüsse können die Atmung Einschränken wenn sie zu groß werden. </item>
+    <item>pneumothorax|Ein Pneumothorax bezeichnet eine Luftansammlung zwischen der Lunge und der Thoraxwand. Dies kann dazu führen, dass die Lunge kollabiert. Häufig treten Pneumothoraxe im Rahmen einer Lungenpunktion auf, können aber auch spontan entstehen. Kleinere Pneumothoraxe resorbieren sich meist von selbst und sind nicht akut behandlungsbedürftig. Akut gefährlich und behandlungsbedürftig ist der sogenannte Spannungspneumothorax, wobei Luft durch einen Ventil Mechanismus in den Pleuraspalt gelangt und nicht mehr entweichen kann. </item>
+    <item>progression|Eine in progression befindliche Erkrankung bedeutet ein Wachstum des Tumors um mindestens 25 %</item>
+    <item>progressive|der Begriff progressive wird oft im Rahmen einer progressiven Erkrankung benutz bei der Beurteilung des Verlaufes einer Tumorerkrankung. 
+  
+In diesem Zusammenhang bedeutet es, dass das Tumorvolumen unter der derzeitigen Therapie sich um mehr als 25 % vergößert hat.</item>
+    <item>raumforderung|Eine Raumforderung bezeichnet zunächst eine unphysiologische Volumenname im Körper. 
+
+Diese können unterschiedliche Ursachen habe. 
+
+Die Ursachen können gutartiger Natur sein. Im Rahmen einer zugrundeliegenden Krebserkrankung können Raumforderungen aber auch bösartiger Natur sein und zum Beispiel Metastasen darstellen. 
+
+Je nach Struktur und Lage der Raumforderungen müssen die Raumforderungen gegebenenfalls weiter untersucht werden oder im Verlauf kontrolliert werden. </item>
+    <item>raumforderungen|Eine Raumforderung bezeichnet zunächst eine unphysiologische Volumenname im Körper. 
+
+Diese können unterschiedliche Ursachen habe. 
+
+Die Ursachen können gutartiger Natur sein. Im Rahmen einer zugrundeliegenden Krebserkrankung können Raumforderungen aber auch bösartiger Natur sein und zum Beispiel Metastasen darstellen. 
+
+Je nach Struktur und Lage der Raumforderungen müssen die Raumforderungen gegebenenfalls weiter untersucht werden oder im Verlauf kontrolliert werden. </item>
+    <item>recist|Response Evaluation Criteria In Solid Tumors (RECIST), deutsch etwa Kriterien für die Bewertung des Ansprechens der Behandlung bei soliden Tumoren. 
+
+Es handelt sich hierbei um eine Sammlung von Regeln um die Behandlungserfolge einer Tumorerkrankung zu bewerten.</item>
+    <item>retroperitoneal|bedeutet "hinter dem Bauchfell gelegen". 
+  
+Im Rahmen einer Tumorerkrankung ist diese Einteilung wichtig, da das Bauchfell die Bauchhöhle anatomisch von retroperitonealen Organen wie der Niere, oder der Bauchspeicheldrüse abgrenzt. </item>
+    <item>tnm|Die TNM-Klassifikation ist eine Klassifikation zum Staging von Tumorerkrankungen. Die mehrdimensionale Einteilung gibt unterschiedliche Schweregrade hinsichtlich der Ausdehnung (Größe, Infiltrationstiefe) des Primärtumors (T), des Lymphknotenbefalls (N) und der Metastasen (M) an.</item>
+    <item>zns|Als das Zentralnervensystem, kurz ZNS, des Menschen bezeichnet man die im Gehirn und Rückenmark gelegenen Nervenstrukturen.</item>
+  </string-array>
+</resources>

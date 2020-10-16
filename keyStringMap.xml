@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string-array name="key_string_array">
+    <item>abszess|Ein Abszess ist eine Ansammlung von Eiter in einer nicht vorgeformten Höhle. 
+Abszesse deuten auf einen starken entzündlichen Prozess hin. </item>
+    <item>abzesse|Ein Abszess ist eine Ansammlung von Eiter in einer nicht vorgeformten Höhle. 
+Abszesse deuten auf einen starken entzündlichen Prozess hin. </item>
+    <item>ao|Die AO-Klassifikation ist ein System zur Beschreibung der Lokalisation und Beschaffenheit von Knochenbrüchen (Frakturen). Ziel dieser Klassifikation ist es, eine weltweit eindeutige Zuordnung von Frakturen, was eine standardisierte Behandlung ermöglicht.
+
+Die Kodierung besteht aus mehreren Zahlen und Buchstaben. Die ersten beiden Zahlenkodiert die Körperregion in der die Fraktur sich befindet. Der Buchstabe bewertet die Art der Fraktur. </item>
+    <item>ao-klassifikation|Die AO-Klassifikation ist ein System zur Beschreibung der Lokalisation und Beschaffenheit von Knochenbrüchen (Frakturen). Ziel dieser Klassifikation ist es, eine weltweit eindeutige Zuordnung von Frakturen, was eine standardisierte Behandlung ermöglicht.
+
+Die Kodierung besteht aus mehreren Zahlen und Buchstaben. Die ersten beiden Zahlenkodiert die Körperregion in der die Fraktur sich befindet. Der Buchstabe bewertet die Art der Fraktur. </item>
+    <item>aortendissektion|Die Aortendissektion ist eine akute Aufspaltung der Wandschichten der Hauptschlagader. Der Einriss kann verschiedene Ausmaße annehmen und ist meist akut Behandlungsbedürftig. </item>
+    <item>caecum|Caecum ist ein Synonym für den Blinddarm. Umgangssprachlich wird oft der Wurmfortsatz ( Appendix vermiformis) als Blinddarm bezeichnet.</item>
+    <item>cholangitis|Als Cholangitis bezeichnet man die Entzündung der Gallenwege.
+
+Als Gallenwege werden die kanalikulären anatomischen Strukturen bezeichnet, welche die in der Leber synthetisierte Galle in den Zwölfingerdarm (Duodenum) befördern. Die Gallenblase gehört im weiteren Sinn ebenfalls zu den Gallenwegen.</item>
+    <item>cholestase|Als Cholestase bezeichnet man den Stau von Gallenflüssigkeit innerhalb der Gallengänge.</item>
+    <item>darmperforation|Als Darmperforation bezeichnet man einen örtlich begrenzten Durchbruch von Darminhalt durch die Darmwand in die Bauchhöhle. 
+  
+Man unterscheidet zwischen der freien und der gedeckten Perforation. Bei der gedeckten Perforation wird die Bruchstelle von einem benachbarten Organ abgedichtet. 
+  
+Bei der freien Perforation gelangt der Darminhalt in die Bauchhöhle was akut behandlungsbedürftig ist. </item>
+    <item>dextra|rechts</item>
+    <item>dhc|Der Ductus choledochus ist ein Teil der extrahepatischen Gallenwege. 
+
+Ein Verschluss des Ductus choledochus durch einen Tumor oder einen Gallenstein führt zu einem Verschlussikterus. </item>
+    <item>divertikel|Divertikel sind Aussackungen der Wand eines Hohlorgans. Sie können eine Vielzahl an Organen betreffen. 
+  
+Im Bereich des Darms betreffen sie meist das Kolon. Das vermehrte Auftreten von Divertikeln bezeichnet man als Divertikulose. Entzünden sich die Divertikel so spricht man von einer Divertikulitis. </item>
+    <item>divertikulitis|Divertikel sind Aussackungen der Wand eines Hohlorgans. Sie können eine Vielzahl an Organen betreffen. 
+  
+Im Bereich des Darms betreffen sie meist das Kolon. Das vermehrte Auftreten von Divertikeln bezeichnet man als Divertikulose. Entzünden sich die Divertikel so spricht man von einer Divertikulitis. </item>
+    <item>divertikulose|Divertikel sind Aussackungen der Wand eines Hohlorgans. Sie können eine Vielzahl an Organen betreffen. 
+  
+Im Bereich des Darms betreffen sie meist das Kolon. Das vermehrte Auftreten von Divertikeln bezeichnet man als Divertikulose. Entzünden sich die Divertikel so spricht man von einer Divertikulitis. </item>
+    <item>duodenal|Das Duodenum ist der sich dem Magen anschliessende, am weitesten oral gelegene Teil des Dünndarmes. 
+  
+Das Duodenum hat eine Länge von circa 30 cm, liegt zum größten Teil sekundär retroperitoneal (hinter dem Bauchfell) und umschließt hufeisenförmig den Kopf der Bauchspeicheldrüse (Pankreas).  
+  
+Die Ausführungsgänge für die Gallenflüssigkeit und für die Bauchspeicheldrüse münden bei in das Duodenum </item>
+    <item>duodenum|Das Duodenum ist der sich dem Magen anschliessende, am weitesten oral gelegene Teil des Dünndarmes. 
+  
+Das Duodenum hat eine Länge von circa 30 cm, liegt zum größten Teil sekundär retroperitoneal (hinter dem Bauchfell) und umschließt hufeisenförmig den Kopf der Bauchspeicheldrüse (Pankreas).  
+  
+Die Ausführungsgänge für die Gallenflüssigkeit und für die Bauchspeicheldrüse münden bei in das Duodenum </item>
+    <item>emphysem|Als Emphysem bezeichnet man das unphysiologische erhöhte Vorkommen von Luft oder Gas im Gewebe.
+
+Emphyseme in der Lunge treten zum Beispiel im Rahmen der COPD auf.
+
+Emphyseme in anderen Körpergeweben können nach einer medizinischen Intervention auftreten. Ohne Eingriff können sie aber auch im Rahmen entzündlicher Prozesse auftreten. </item>
+    <item>emphyseme|Als Emphysem bezeichnet man das unphysiologische erhöhte Vorkommen von Luft oder Gas im Gewebe.
+
+Emphyseme in der Lunge treten zum Beispiel im Rahmen der COPD auf.
+
+Emphyseme in anderen Körpergeweben können nach einer medizinischen Intervention auftreten. Ohne Eingriff können sie aber auch im Rahmen entzündlicher Prozesse auftreten. </item>
+    <item>empyem|Ein Empyem bezeichnet eine Ansammlung von Eiter in einer vorgeformten Körperhöhle wie zum Beispiel dem Pleuraspalt. Empyeme deuten auf einen starken entzündlichen Prozess hin.</item>
+    <item>empyeme|Ein Empyem bezeichnet eine Ansammlung von Eiter in einer vorgeformten Körperhöhle wie zum Beispiel dem Pleuraspalt. Empyeme deuten auf einen starken entzündlichen Prozess hin.</item>
+    <item>erguss|Bezeichnen Ergüsse meist Pleuraergüsse. Dies ist eine Ansammlung von Flüssigkeit zwischen der Lunge und der Thoraxwand.
+
+Dies kann eine Vielzahl von Ursachen haben. Ergüsse können die Atmung Einschränken wenn sie zu groß werden. </item>
+    <item>ergüsse|Bezeichnen Ergüsse meist Pleuraergüsse. Dies ist eine Ansammlung von Flüssigkeit zwischen der Lunge und der Thoraxwand. 
+Dies kann eine Vielzahl von Ursachen haben. Ergüsse können die Atmung Einschränken wenn sie zu groß werden. </item>
+    <item>extrahepatisch|Extrahepatisch bedeutet "außerhalb der Leber".</item>
+    <item>extrahepatische|Extrahepatisch bedeutet "außerhalb der Leber".</item>
+    <item>femur|Femur bezeichnet den Oberschenkelknochen. </item>
+    <item>fibula|Unterschenkel Knochen. Die Tibia bezeichnet das Schienenbein, die Fibula das Wadenbein. </item>
+    <item>gallenwege|Als Gallenwege werden die kanalikulären anatomischen Strukturen bezeichnet, welche die in der Leber synthetisierte Galle in den Zwölfingerdarm (Duodenum) befördern. Die Gallenblase gehört im weiteren Sinn ebenfalls zu den Gallenwegen.</item>
+    <item>gangrän|Die Gangrän ist eine Sonderform der Koagulationsnekrose (Absterbendes Gewebe).  
+
+Sie entsteht üblicherweise nach länger bestehender relativer oder absoluter Ischämie (Minderdurchblutung) und ist durch Nekrosen (Absterbendes Gewebe), Gewebeschrumpfungen und schwärzlichen Verfärbungen gekennzeichnet.</item>
+    <item>gangränös|Die Gangrän ist eine Sonderform der Koagulationsnekrose (Absterbendes Gewebe).  
+
+Sie entsteht üblicherweise nach länger bestehender relativer oder absoluter Ischämie (Minderdurchblutung) und ist durch Nekrosen (Absterbendes Gewebe), Gewebeschrumpfungen und schwärzlichen Verfärbungen gekennzeichnet.</item>
+    <item>gangränöse|Die Gangrän ist eine Sonderform der Koagulationsnekrose (Absterbendes Gewebe).  
+
+Sie entsteht üblicherweise nach länger bestehender relativer oder absoluter Ischämie (Minderdurchblutung) und ist durch Nekrosen (Absterbendes Gewebe), Gewebeschrumpfungen und schwärzlichen Verfärbungen gekennzeichnet.</item>
+    <item>hcc|Das hepatozelluläre Karzinom (HCC) ist ein vom Lebergewebe (Hepatozyten) ausgehendes Karzinom der Leber.
+
+</item>
+    <item>hepatitis|Als Hepatitis bezeichnet man eine infektiöse, toxische, immunologische oder auch anders bedingte Entzündung des Bindegewebes und Blutgefäßsystems und später des Parenchyms der Leber.  
+Hepatitiden können unterschiedliche Ursachen haben. Man unterscheidet Virushepatitiden von infektiösen nichtviralen-, toxischen-, autoimmunen Hepatitiden. Des Weiteren können Hepatitiden auch noch als Begleiterkrankung bei anderen Grunderkrankungen auftreten. </item>
+    <item>humerus|Oberarm Knochen </item>
+    <item>hämatogen|Hämatogen deutet im Allgemeinen auf einen Zusammenhang mit dem Blut hin. 
+  
+Im Zusammenhang mit dem Begriff Metastasierung bedeutet es, dass die Metastasen aufgrund des Streumusters wahrscheinlich über den Blutkreislauf gestreut wurden. </item>
+    <item>hämatom|Ein Hämatom ist eine Ansammlung von Blut, das aus den Blutgefäßen in das extravasale Körpergewebe oder einen präformierten Hohlraum ausgetreten ist.
+</item>
+    <item>ileus|Ein Ileus ist ein Verschluss des Darms, der zu einer Aufhebung der Darmpassage führen und bedarf oft einer sofortigen Behandlung.</item>
+    <item>iliakal|Iliakal bedeutet "das Darmbein (Os ilium) betreffend" bzw. "am Darmbein liegend" und bezeichnet damit eine Region im kleinen Becken betreffend. Oft wird es auch in Bezug auf die arteriellen Gefäße Arteriae iliacae communes oder die ihre Abzweigungen genutzt um die räumliche Beziehung zu beschreiben. </item>
+    <item>iliakale|Iliakal bedeutet "das Darmbein (Os ilium) betreffend" bzw. "am Darmbein liegend" und bezeichnet damit eine Region im kleinen Becken betreffend. Oft wird es auch in Bezug auf die arteriellen Gefäße Arteriae iliacae communes oder die ihre Abzweigungen genutzt um die räumliche Beziehung zu beschreiben. </item>
+    <item>illeum|Das Ileum (Krummdarm) ist der letzte Abschnitt des Dünndarms nach dem Jejunum (Leerdarm). Mit einer Länge von etwa drei Metern macht er drei Fünftel des gesamten Dünndarms aus. Im Ileum finden – wie im übrigen Dünndarm – Verdauungsvorgänge statt und zudem die Resorption von Wasser und Gallensäuren.</item>
+    <item>infiltrate|Im Kontext einer Untersuchung der Lunge bezeichnen Infiltrate meistens eine entzündliche Veränderung, im Allgemeinen bezeichnet der Begriff das Eindringen einer Substanz in biologisches Gewebe</item>
+    <item>intrahepatisch|Intrahepatisch bedeutet "innerhalb der Leber".</item>
+    <item>intrahepatische|Intrahepatisch bedeutet "innerhalb der Leber".</item>
+    <item>ischämie|Als Ischämie bezeichnet man die pathologisch verminderte oder aufgehobene Durchblutung eines Gewebes infolge mangelnden Blutzufuhr mit sauerstoffreichem Blut. 
+  
+Dies kann letztendlich alle Organe betreffen und ist meist akut behandlungsbedürftig. </item>
+    <item>ischämisch|Als Ischämie bezeichnet man die pathologisch verminderte oder aufgehobene Durchblutung eines Gewebes infolge mangelnden Blutzufuhr mit sauerstoffreichem Blut. 
+  
+Dies kann letztendlich alle Organe betreffen und ist meist akut behandlungsbedürftig. </item>
+    <item>jejunal|Das Jejunum ist der zwischen Zwölffingerdarm und Ileum gelegene, ca. 2-2,5 m lange mittlere Abschnitt des Dünndarms. Der Übergang vom Jejunum zum Ileum (Krummdarm, letzter Abschnitt des Dünnddarms) ist nicht klar abgegrenzt. </item>
+    <item>jejunum|Das Jejunum ist der zwischen Zwölffingerdarm und Ileum gelegene, ca. 2-2,5 m lange mittlere Abschnitt des Dünndarms. Der Übergang vom Jejunum zum Ileum (Krummdarm, letzter Abschnitt des Dünnddarms) ist nicht klar abgegrenzt. </item>
+    <item>kolon|Das Kolon befindet sich als längster Teil des Dickdarmes zwischen dem Blinddarm und dem Enddarm.</item>
+    <item>kolonperforation|Als Darmperforation bezeichnet man einen örtlich begrenzten Durchbruch von Darminhalt durch die Darmwand in die Bauchhöhle. 
+  
+Man unterscheidet zwischen der freien und der gedeckten Perforation. Bei der gedeckten Perforation wird die Bruchstelle von einem benachbarten Organ abgedichtet. 
+  
+Bei der freien Perforation gelangt der Darminhalt in die Bauchhöhle was akut behandlungsbedürftig ist. </item>
+    <item>konkrement|Als Konkrement bezeichnet man Festkörper, die sich durch Ausfällung von in Körperflüssigkeiten gelösten Substanzen in Hohlräumen des Organismus bilden. 
+
+Häufigere Beispiele sind Gallensteine oder Nierensteine. Diese können, aber müssen aber nicht symptomatisch werden. </item>
+    <item>konkremente|Als Konkrement bezeichnet man Festkörper, die sich durch Ausfällung von in Körperflüssigkeiten gelösten Substanzen in Hohlräumen des Organismus bilden. 
+
+Häufigere Beispiele sind Gallensteine oder Nierensteine. Diese können, aber müssen aber nicht symptomatisch werden. </item>
+    <item>koprostase|Unter einer Koprostase versteht man eine Stauung von Kot im Dickdarm. Dabei kann es zur Bildung von verhärteten Kotballen Skybala bzw. Kotsteinen kommen.
+</item>
+    <item>lk|Die Lymphknoten, kurz LK, sind sekundäre lymphatische Organe und gehören zum lymphatischen System des Körpers. Sie spielen als Filterstationen für Antigene eine wichtige Rolle im Immunsystem. 
+  
+Im Rahmen einer Krebserkrankungen können sie oft der Ort für Metastasen sein. Da bestimmte Lymphknoten die Lymphe einer Region drainieren können bestimmte Lymphknoten als sogenannte Sentinel-Lymphknoten (Wächterlymphknoten) wichtig für die Erkennung und Behandlung einer Krebserkrankung sein. </item>
+    <item>lymphknoten|Die Lymphknoten, kurz LK, sind sekundäre lymphatische Organe und gehören zum lymphatischen System des Körpers. Sie spielen als Filterstationen für Antigene eine wichtige Rolle im Immunsystem. 
+  
+Im Rahmen einer Krebserkrankungen können sie oft der Ort für Metastasen sein. Da bestimmte Lymphknoten die Lymphe einer Region drainieren können bestimmte Lymphknoten als sogenannte Sentinel-Lymphknoten (Wächterlymphknoten) wichtig für die Erkennung und Behandlung einer Krebserkrankung sein. </item>
+    <item>mensenterial|Das Mesenterium ist eine Verdoppelung des Bauchfells, die von der hinteren Bauchwand ausgeht.
+
+An den Mesenterien sind die jeweiligen Darmabschnitte elastisch aufgehängt, so dass sie in der Bauchhöhle zwar teilweise fixiert, aber dennoch beweglich sind.   
+der Begriff mesenterial wird zur anatomischen Einteilung genutzt </item>
+    <item>mensenterium|Das Mesenterium ist eine Verdoppelung des Bauchfells, die von der hinteren Bauchwand ausgeht.
+
+An den Mesenterien sind die jeweiligen Darmabschnitte elastisch aufgehängt, so dass sie in der Bauchhöhle zwar teilweise fixiert, aber dennoch beweglich sind.   
+der Begriff mesenterial wird zur anatomischen Einteilung genutzt </item>
+    <item>nekrose|Der Begriff Nekrose bezeichnet den Tod einer Zelle durch Schädigung der Zellstruktur, z.B. infolge mechanischer Verletzungen, Kontakt mit Toxinen, Hypoxie, Hypothermie oder Infektionen mit Krankheitserregern. Bei der Nekrose kommt es zu Membrandefekten, die dazu führen, dass der Zellinhalt unkontrolliert in die Umgebung der Zelle austritt. Die Folge ist eine Entzündungsreaktion.
+
+Dies führt zum Abstreben vom betroffendem Gewebe.</item>
+    <item>nekrotisch|Der Begriff Nekrose bezeichnet den Tod einer Zelle durch Schädigung der Zellstruktur, z.B. infolge mechanischer Verletzungen, Kontakt mit Toxinen, Hypoxie, Hypothermie oder Infektionen mit Krankheitserregern. Bei der Nekrose kommt es zu Membrandefekten, die dazu führen, dass der Zellinhalt unkontrolliert in die Umgebung der Zelle austritt. Die Folge ist eine Entzündungsreaktion.
+
+Dies führt zum Abstreben vom betroffendem Gewebe.</item>
+    <item>nekrotisches|Der Begriff Nekrose bezeichnet den Tod einer Zelle durch Schädigung der Zellstruktur, z.B. infolge mechanischer Verletzungen, Kontakt mit Toxinen, Hypoxie, Hypothermie oder Infektionen mit Krankheitserregern. Bei der Nekrose kommt es zu Membrandefekten, die dazu führen, dass der Zellinhalt unkontrolliert in die Umgebung der Zelle austritt. Die Folge ist eine Entzündungsreaktion.
+
+Dies führt zum Abstreben vom betroffendem Gewebe.</item>
+    <item>nephrolithiasis|Unter einer Nephrolithiasis versteht man das Auftreten von Konkrementen (Steinen) in den Nieren. Die Nephrolithiasis ist eine Form der Urolithiasis (Harnsteine).</item>
+    <item>ossär|Ossär bedeutet "den Knochen betreffend" oder "knöchern".</item>
+    <item>pankreas|Das Pankreas oder Bauchspeicheldrüse ist ein quer im Oberbauch liegendes Drüsenorgan des Menschen, das Verdauungsenzyme und Hormone produziert. 
+  
+Unter andrem ist es wichtig für die Produktion von Insulin. 
+  
+Aufgrund seiner anatomischen Lage ist es im Rahmen einer Tumorerkrankung schwer operativ zugänglich. </item>
+    <item>partielle|der Begriff partiell wird oft im Rahmen einer partiellen Remission benutz bei der Beurteilung des Verlaufes einer Tumorerkrankung. 
+  
+In diesem Zusammenhang bedeutet es, dass das Tumorvolumen unter der derzeitigen Therapie um weniger als 25 % vermindert wurde. </item>
+    <item>pleuraerguss|Ein Pleuraerguss ist eine Ansammlung von Flüssigkeit zwischen der Lunge und der Thoraxwand. 
+Dies kann eine Vielzahl von Ursachen haben. Ergüsse können die Atmung Einschränken wenn sie zu groß werden. </item>
+    <item>pleuraergüsse|Ein Pleuraerguss ist eine Ansammlung von Flüssigkeit zwischen der Lunge und der Thoraxwand. 
+Dies kann eine Vielzahl von Ursachen haben. Ergüsse können die Atmung Einschränken wenn sie zu groß werden. </item>
+    <item>pneumothorax|Ein Pneumothorax bezeichnet eine Luftansammlung zwischen der Lunge und der Thoraxwand. Dies kann dazu führen, dass die Lunge kollabiert. Häufig treten Pneumothoraxe im Rahmen einer Lungenpunktion auf, können aber auch spontan entstehen. Kleinere Pneumothoraxe resorbieren sich meist von selbst und sind nicht akut behandlungsbedürftig. Akut gefährlich und behandlungsbedürftig ist der sogenannte Spannungspneumothorax, wobei Luft durch einen Ventil Mechanismus in den Pleuraspalt gelangt und nicht mehr entweichen kann. </item>
+    <item>progression|Eine in progression befindliche Erkrankung bedeutet ein Wachstum des Tumors um mindestens 25 %</item>
+    <item>progressive|der Begriff progressive wird oft im Rahmen einer progressiven Erkrankung benutz bei der Beurteilung des Verlaufes einer Tumorerkrankung. 
+  
+In diesem Zusammenhang bedeutet es, dass das Tumorvolumen unter der derzeitigen Therapie sich um mehr als 25 % vergößert hat.</item>
+    <item>radius|Unterarm Knochen. Der Radius bezeichnet die Speiche, die Ulna die Elle.</item>
+    <item>raumforderung|Eine Raumforderung bezeichnet zunächst eine unphysiologische Volumenname im Körper. 
+
+Diese können unterschiedliche Ursachen habe. 
+
+Die Ursachen können gutartiger Natur sein. Im Rahmen einer zugrundeliegenden Krebserkrankung können Raumforderungen aber auch bösartiger Natur sein und zum Beispiel Metastasen darstellen. 
+
+Je nach Struktur und Lage der Raumforderungen müssen die Raumforderungen gegebenenfalls weiter untersucht werden oder im Verlauf kontrolliert werden. </item>
+    <item>raumforderungen|Eine Raumforderung bezeichnet zunächst eine unphysiologische Volumenname im Körper. 
+
+Diese können unterschiedliche Ursachen habe. 
+
+Die Ursachen können gutartiger Natur sein. Im Rahmen einer zugrundeliegenden Krebserkrankung können Raumforderungen aber auch bösartiger Natur sein und zum Beispiel Metastasen darstellen. 
+
+Je nach Struktur und Lage der Raumforderungen müssen die Raumforderungen gegebenenfalls weiter untersucht werden oder im Verlauf kontrolliert werden. </item>
+    <item>recist|Response Evaluation Criteria In Solid Tumors (RECIST), deutsch etwa Kriterien für die Bewertung des Ansprechens der Behandlung bei soliden Tumoren. 
+
+Es handelt sich hierbei um eine Sammlung von Regeln um die Behandlungserfolge einer Tumorerkrankung zu bewerten.</item>
+    <item>retroperitoneal|bedeutet "hinter dem Bauchfell gelegen". 
+  
+Im Rahmen einer Tumorerkrankung ist diese Einteilung wichtig, da das Bauchfell die Bauchhöhle anatomisch von retroperitonealen Organen wie der Niere, oder der Bauchspeicheldrüse abgrenzt. </item>
+    <item>sentinel|Die Lymphknoten, kurz LK, sind sekundäre lymphatische Organe und gehören zum lymphatischen System des Körpers. Sie spielen als Filterstationen für Antigene eine wichtige Rolle im Immunsystem. 
+  
+Im Rahmen einer Krebserkrankungen können sie oft der Ort für Metastasen sein. Da bestimmte Lymphknoten die Lymphe einer Region drainieren können bestimmte Lymphknoten als sogenannte Sentinel-Lymphknoten (Wächterlymphknoten) wichtig für die Erkennung und Behandlung einer Krebserkrankung sein. </item>
+    <item>sinistra|links</item>
+    <item>subileus|Unter einem Subileus versteht man einen klinisch noch nicht voll entwickelten Verschluss des Darms. 
+
+</item>
+    <item>tibia|Unterschenkel Knochen. Die Tibia bezeichnet das Schienenbein, die Fibula das Wadenbein. </item>
+    <item>tnm|Die TNM-Klassifikation ist eine Klassifikation zum Staging von Tumorerkrankungen. Die mehrdimensionale Einteilung gibt unterschiedliche Schweregrade hinsichtlich der Ausdehnung (Größe, Infiltrationstiefe) des Primärtumors (T), des Lymphknotenbefalls (N) und der Metastasen (M) an.</item>
+    <item>ulna|Unterarm Knochen. Der Radius bezeichnet die Speiche, die Ulna die Elle.</item>
+    <item>volvulus|Als Volvulus bezeichnet man die angeborene oder erworbene Verdrehung eines Organs, besonders die Verdrehung von Darmabschnitten. 
+
+Dies kann zu einem mechanischen Verschluss der Darmpassage führen.</item>
+    <item>wilson|Der Morbus Wilson ist eine erbliche Stoffwechselstörung, bei der es durch verminderte Ausscheidung zur Anhäufung und Ablagerung von Kupfer in verschiedenen Organsystemen kommt.
+
+</item>
+    <item>wächterlymphknoten|Die Lymphknoten, kurz LK, sind sekundäre lymphatische Organe und gehören zum lymphatischen System des Körpers. Sie spielen als Filterstationen für Antigene eine wichtige Rolle im Immunsystem. 
+  
+Im Rahmen einer Krebserkrankungen können sie oft der Ort für Metastasen sein. Da bestimmte Lymphknoten die Lymphe einer Region drainieren können bestimmte Lymphknoten als sogenannte Sentinel-Lymphknoten (Wächterlymphknoten) wichtig für die Erkennung und Behandlung einer Krebserkrankung sein. </item>
+    <item>zns|Als das Zentralnervensystem, kurz ZNS, des Menschen bezeichnet man die im Gehirn und Rückenmark gelegenen Nervenstrukturen.</item>
+  </string-array>
+</resources>
