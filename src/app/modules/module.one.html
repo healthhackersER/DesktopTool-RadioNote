@@ -1,0 +1,11 @@
+<div>
+  <h1>{{name}}</h1>
+    <div class ="lsit-group">
+      <a class="list-group-item list-group-item-primary">
+        <div>A List Of Entities</div>
+      </a>
+      <a class="list-group-item" *ngFor="let entity of list; let i = index">
+        <Entity [entity] = "entity"></Entity>
+      </a>
+    </div>
+</div>

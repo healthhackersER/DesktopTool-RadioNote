@@ -1,0 +1,13 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div class="navbar navbar-light bg-light sticky-top">
+    <a class="navbar-brand" [routerLink]="['/']">
+        <img src="https://image.flaticon.com/icons/png/512/855/855904.png" height="50" class="d-inline-block align-top" alt="">
+    </a>
+    <h1>{{title}}</h1>
+    <a class="nav-link" [routerLink]="['/Module1']" href="" ><i class="fa fa-fw fa-lg fa-wrench" title="Simple Example"></i></a>
+    <a class="nav-link" [routerLink]="['/Module2']" href="" ><i class="fa fa-fw fa-lg fa-tools" title="List Example"></i></a>
+    <a class="nav-link" [routerLink]="['/ModuleD3']" href="" ><i class="fa fa-fw fa-lg fa-chart-pie" title="D3 Example"></i></a>
+</div>
+<div class="bg-app h-100 flex-grow" id="main-frame">
+  <router-outlet></router-outlet>
+</div>
